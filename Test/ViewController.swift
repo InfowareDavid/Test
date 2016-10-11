@@ -13,6 +13,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         print("wring new code here")
+        print("write another one")
         //make some change
         // Do any additional setup after loading the view, typically from a nib.
     }
